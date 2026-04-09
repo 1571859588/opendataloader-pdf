@@ -76,3 +76,6 @@ logs/
 .claude/settings.local.json
 .claude/plans/
 
+
+# image
+test/test_output_fast/Aether_Manual_crop_images/
