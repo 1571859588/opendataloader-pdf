@@ -198,7 +198,7 @@ opendataloader-pdf-hybrid --port 5002
 
 ```bash
 # Batch all files in one call — each invocation spawns a JVM process, so repeated calls are slow
-opendataloader-pdf --hybrid docling-fast file1.pdf file2.pdf folder/
+opendataloader-pdf --hybrid docling-fast pdfs/DDR5.pdf output/opendataloader/DDR5
 ```
 
 **Python:**
