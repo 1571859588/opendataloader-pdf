@@ -9,3 +9,6 @@ opendataloader-pdf-hybrid --port 5002
 # Batch all files in one call — each invocation spawns a JVM process, so repeated calls are slow
 opendataloader-pdf --hybrid docling-fast pdfs/DDR5.pdf output/opendataloader/DDR5
 ```
+
+## 效果
+实测在DDR5上，会出现莫名其妙的图片，没有任何依据 感觉效果很差
