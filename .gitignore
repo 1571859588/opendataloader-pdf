@@ -77,4 +77,5 @@ logs/
 .claude/plans/
 
 
-test/
+# image
+test/test_output_fast/Aether_Manual_crop_images/
